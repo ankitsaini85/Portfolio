@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Web Development Intern",
+      "organisation": "Explorin",
+      "startDate": "Jul, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Worked on frontend and backend", "Implement good features"],
+      "imageSrc": "history/explorin_logo.jpg"
+    },
+    {
+      "role": "Web Development Bootcamp",
+      "organisation": "Udemy",
+      "startDate": "Dec, 2023",
+      "endDate": "May, 2024",
+      "experiences": ["Learn about mern technology", "Design and develop web applications"],
+      "imageSrc": "history/udemy-logo.png"
+    }
+
+  ]
+  

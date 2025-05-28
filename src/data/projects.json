@@ -1,0 +1,23 @@
+[
+  {
+    "title": "TaskVerse",
+    "imageSrc": "projects/project.png",
+    "description": "A role based task management app that allows users to create, assign, and track tasks within a team.",
+    "skills": ["React", "Express", "Node" , "MongoDB"],
+    "source":"https://github.com/ankitsaini85/TaskVerse.git"
+  },
+  {
+    "title": "ShellShowCases",
+    "imageSrc": "projects/project.png",
+    "description": "A web-based interactive terminal portfolio for Ankit Saini. Allows users to explore information terminal-like interface.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source":" https://github.com/ankitsaini85/ShellShowCases.git"
+  },
+  {
+    "title": "ProBlogfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack blog platform with JWT authentication, allowing users to securely create, edit, delete, and view personal blog posts.",
+    "skills": ["Express", "Node" , "MongoDB","ejs"],
+    "source": "https://github.com/ankitsaini85/ProBlogfolio.git"
+  }
+]
